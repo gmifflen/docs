@@ -3,12 +3,11 @@ title: "Project List Using wsldl"
 ---
 # Project List Using wsldl
 List of projects using the official build of wsldl.
-⭐ used to show recommended project if a distro has multiple projects
 
 ## Distros
 [AlmaLinux](https://github.com/amithgeorge/AlmaLinux-WSL2) (by [amithgeoge](https://github.com/amithgeorge))
 
-⭐ [Alpine Linux](https://github.com/yuk7/AlpineWSL) (by [yuk7](https://github.com/yuk7))
+[Alpine Linux](https://github.com/yuk7/AlpineWSL) (by [yuk7](https://github.com/yuk7))
 
 [Alpine Linux Edge (Rolling Release)](https://github.com/sileshn/AlpineWSL2) (by [SileshNair](https://github.com/sileshn))
 
@@ -18,7 +17,7 @@ List of projects using the official build of wsldl.
 
 [Arch Linux](https://github.com/yuk7/ArchWSL) (by [yuk7](https://github.com/yuk7))
 
-⭐ [Arch Linux](https://github.com/sileshn/ArchWSL2) (by [SileshNair](https://github.com/sileshn))
+[Arch Linux](https://github.com/sileshn/ArchWSL2) (by [SileshNair](https://github.com/sileshn))
 
 [Artix Linux](https://github.com/hdk5/ArtixWSL) (by [hdk5](https://github.com/hdk5))
 
@@ -40,7 +39,7 @@ List of projects using the official build of wsldl.
 
 [Funtoo](https://github.com/rescenic/FuntooWSL) (by [rescenic](https://github.com/rescenic)) 
 
-⭐ [Gentoo](https://github.com/VPraharsha03/GentooWSL2) (by [VPraharsha03](https://github.com/VPraharsha03))
+[Gentoo](https://github.com/VPraharsha03/GentooWSL2) (by [VPraharsha03](https://github.com/VPraharsha03))
 
 [Gentoo](https://github.com/sileshn/GentooWSL2) (by [SileshNair](https://github.com/sileshn))
 
